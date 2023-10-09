@@ -8,6 +8,7 @@
 
 ## Challenge items (아래 주제 중 1개 선택)
 1. Large language models (LLMs)을 이용한 query engine 작성
+
    Local LLMs를 이용하여, 다양한 파일 형태 (word, pdf, webpage 등)의 대용량 문서를 embedding. 사용자의 query를 유사도에 기반하여 처리하는 모델 개발. (개발된 시스템은 대화형 인터페이스를 갖고있어야하며, refenence list도 함께 출력되어야함)
 
 ## 평가 기준
