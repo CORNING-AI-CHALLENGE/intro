@@ -29,4 +29,4 @@
 
 
 ## 문의
-moonj5(@)corning.com
+문정환 프로 : moonj5(@)corning.com / 회원 가입 후 slack, discord, 웹사이트 이용 
