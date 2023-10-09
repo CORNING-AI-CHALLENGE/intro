@@ -29,5 +29,5 @@
 
 
 ## 문의
-문정환 프로 : moonj5(@)corning.com / 회원 가입 후 slack<img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>, discord, 웹사이트 이용 
+문정환 프로 : moonj5(@)corning.com / 회원 가입 후 slack, discord, 웹사이트 이용 
 
