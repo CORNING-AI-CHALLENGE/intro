@@ -31,3 +31,4 @@
 ## 문의 ❓
 문정환 프로 : 📧 moonj5(@)corning.com / 추후 참여 인원 대상으로 slack, discord 채널 공지
 
+![image](https://github.com/CORNING-AI-CHALLENGE/intro/assets/146830948/c522b608-200b-40d4-b12a-2985584c2560)
