@@ -7,7 +7,7 @@
 <br/><br/><br/><br/>
 
 
-## Challenge items (아래 주제 중 1개 선택)
+## Challenge items 🏃 (아래 주제 중 1개 선택)
 1. Large language models (LLMs)을 이용한 query engine 작성 ([상세 page link](https://github.com/corning-ai-challenge/item1.git))
 
    Local LLMs를 이용하여, 다양한 파일 형태 (word, pdf, webpage 등)의 대용량 문서를 embedding. 사용자의 query를 유사도에 기반하여 처리하는 모델 개발. (개발된 시스템은 대화형 인터페이스를 갖고 있어야하며, refenence list도 함께 출력되어야함)
@@ -22,12 +22,12 @@
 <br/><br/><br/><br/>
 
 
-## 평가 기준
+## 평가 기준 📝
 1. 짧은 대회 기간을 고려하여, 해답의 정확도 / 문제 해결 방법의 참신함 모두 고려 (50:50)
 2. 동일 점수일 경우, commit 날짜가 빠른 순서로 가산점 부여
 <br/><br/><br/><br/>
 
 
-## 문의
-문정환 프로 : moonj5(@)corning.com / 회원 가입 후 slack, discord, 웹사이트 이용 
+## 문의 ❓
+문정환 프로 : 📧 moonj5(@)corning.com / 회원 가입 후 slack, discord, 웹사이트 이용 
 
