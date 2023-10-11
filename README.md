@@ -29,5 +29,5 @@
 
 
 ## 문의 ❓
-문정환 프로 : 📧 moonj5(@)corning.com / 회원 가입 후 slack, discord, 웹사이트 이용 
+문정환 프로 : 📧 moonj5(@)corning.com / 추후 참여 인원에 대상으로 slack, discord 채널 공지
 
