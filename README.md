@@ -1,11 +1,15 @@
 # Corning AI challenge 💻
-<br/><br/>
+<br/>
+
+#### 본 대회의 운영 방법 및 기간은 사전 공지 후 바뀔 수 있습니다. 본 웹사이트를 자주 확인하세요 
+<br/>
+
+
 ## 대회 개요 💬
 1. 참가 자격 : AI를 이용한 문제 해결에 관심있는 한양대학교 대학생 / 대학원생 (팀 또는 개인, 팀 최대 인원은 3인으로 제한)
-1. 대회 기간 : ⏰ 2023.10.18 ~ 2023.12.11 (🔗 [참가 신청 link](https://recruit.incruit.com/corning/job/2310100017))  &nbsp;&nbsp; | &nbsp;&nbsp;  (평가) 2023.12.12 ~ 2023.12.15 &nbsp;&nbsp; | &nbsp;&nbsp; (시상) 12월 4째 주
-1. 수상 혜택 : 🥇 500만원 (1팀) / 🥈 200만원 (1팀) / 🥉 100만원 (3팀)
+1. 대회 기간 : ⏰ 2023.10.18 ~ 2023.12.11 (🔗 [참가 신청 link](https://recruit.incruit.com/corning/job/2310100017))  &nbsp;&nbsp; | &nbsp;&nbsp;  (평가) 2023.12.12 ~ 2023.12.15 &nbsp;&nbsp; | &nbsp;&nbsp; (시상) 12월 4째 주 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;참가신청 웹페이지가 복잡하니 [🔗 설명서](https://github.com/corning-ai-challenge/signup)를 참고하세요~<br/>
+1. 수상 혜택 : 🥇 500만원 (1팀) / 🥈 200만원 (1팀) / 🥉 100만원 (3팀) &nbsp;&nbsp;|&nbsp;&nbsp; 해외 corning lab과의 교류 기회 제공<br/>
 <br/><br/><br/><br/>
-
 
 ## Challenge items 🏃 (아래 주제 중 1개 선택)
 1. Large language models (LLMs)을 이용한 query engine 작성 (🔗 [상세 page link](https://github.com/corning-ai-challenge/item1.git))
@@ -23,12 +27,13 @@
 
 
 ## 평가 기준 📝
-1. 짧은 대회 기간을 고려하여, 문제 해결 방법의 참신함과 구현 정도를 우선 고려
-2. 동일 점수일 경우, commit 날짜가 빠른 순서로 가산점 부여
+1. 짧은 대회 기간을 고려하여, 문제 해결 방법의 참신함과 구현 정도를 우선 고려 (정성평가)
+2. 동일 점수일 경우, commit 날짜가 빠른 순서로 수상자 선정
 <br/><br/><br/><br/>
 
 
 ## 문의 ❓
 문정환 프로 : 📧 moonj5(@)corning.com / 추후 참여 인원 대상으로 slack, discord 채널 공지
+<br/> * GPU 자원이 필요한 경우 문정환 프로에게 e-mail로 신청 (NVIDIA A100 4ea, 한양대학교 인공지능대학원 제공)
 
 
