@@ -7,7 +7,7 @@
 
 ## 대회 개요 💬
 1. 참가 자격 : AI를 이용한 문제 해결에 관심있는 한양대학교 대학생 / 대학원생 (팀 또는 개인, 팀 최대 인원은 3인으로 제한)
-1. 대회 기간 : ⏰ 2023.10.18 ~ 2023.12.11 (🔗 [참가 신청 link](https://recruit.incruit.com/corning/job/2310100017))  &nbsp;&nbsp; | &nbsp;&nbsp;  (평가) 2023.12.12 ~ 2023.12.15 &nbsp;&nbsp; | &nbsp;&nbsp; (시상) 12월 4째 주 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;참가신청 웹페이지가 복잡하니 [🔗 설명서](https://github.com/corning-ai-challenge/signup)를 참고하세요~<br/>
+1. 대회 기간 : ⏰ 2023.10.18 ~ 2023.12.11 (🔗 [참가 신청 link](https://recruit.incruit.com/corning/job/2310100017))  &nbsp;&nbsp; | &nbsp;&nbsp;  (평가) 2023.12.12 ~ 2023.12.15 &nbsp;&nbsp; | &nbsp;&nbsp; (시상) 12월 4째 주 <br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;참가신청 웹페이지가 구성이 복잡합니다. [🔗 설명서](https://github.com/corning-ai-challenge/signup)를 참고하세요~<br/>
 1. 수상 혜택 : 🥇 500만원 (1팀) / 🥈 200만원 (1팀) / 🥉 100만원 (3팀) &nbsp;&nbsp;|&nbsp;&nbsp; 해외 corning lab과의 교류 기회 제공<br/>
 <br/><br/><br/><br/>
 
