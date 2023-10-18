@@ -34,6 +34,6 @@
 
 ## 문의 ❓
 문정환 프로 : 📧 moonj5(@)corning.com / 추후 참여 인원 대상으로 slack, discord 채널 공지
-<br/> * GPU 자원이 필요한 경우 문정환 프로에게 e-mail로 신청 (NVIDIA A100 4ea, 한양대학교 인공지능대학원 제공)
+<br/> * GPU 자원이 필요한 경우 문정환 프로에게 e-mail로 신청 (총 사용 가능 자원 NVIDIA A100 4ea, 한양대학교 인공지능대학원 제공)
 
 
