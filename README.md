@@ -23,7 +23,7 @@
 | Inverse design |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | 나혼자 LLM |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | BBD |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| BIG212HO |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| BIG212HO |  &nbsp; | 오후2-4 (단독) | &nbsp; | &nbsp; | &nbsp; |
 | Closed AI |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | 예티 |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | PADON |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
