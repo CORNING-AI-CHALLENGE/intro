@@ -3,7 +3,10 @@
 
 #### 본 대회의 운영 방법 및 기간은 사전 공지 후 바뀔 수 있습니다. 본 웹사이트를 자주 확인하세요 
 
-#### !!!추가 공지사항!!! - 참가자들과의 대화 일정
+
+--------
+
+#### (2023-11-22) !!!추가 공지사항!!! - 참가자들과의 대화 일정
 
 
 어느덧 AI challenge 종료 시점이 다가오고 있습니다. 
@@ -13,9 +16,24 @@
 
 프로젝트 주제에 대한 간단한 설명 (ppt 1~2) 정도를 공유해주시면 되고, 요청사항이 있으시면 알려주세요.
 (중간 평가 등의 목적은 아니며, 선택한 세부 주제와 접근법 등을 간단히 공유하는 자리입니다.)
+<br/><br/>
+미팅 일정 : TBD, last updated 2023-11-22
+|  &nbsp;&nbsp; | 11/27(월) | 11/28(화) | 11/29(수) | 11/30(수) | 12/01(금) |
+|:--------|:--------:|--------:|:--------|:--------:|--------:|
+| Inverse design |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 나혼자 LLM |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| BBD |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| BIG212HO |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Closed AI |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 예티 |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| PADON |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| HAI |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| MnMs |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| AI w.o. CS |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 
+
+--------
 <br/>
-
 
 ## 대회 개요 💬
 1. 참가 자격 : AI를 이용한 문제 해결에 관심있는 한양대학교 대학생 / 대학원생 (팀 또는 개인, 팀 최대 인원은 3인으로 제한, 중복참여 불가능)
