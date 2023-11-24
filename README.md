@@ -18,6 +18,7 @@
 (중간 평가 등의 목적은 아니며, 선택한 세부 주제와 접근법 등을 간단히 공유하는 자리입니다.)
 <br/><br/>
 미팅 일정 : TBD, last updated 2023-11-22
+
 |  &nbsp;&nbsp; | 11/27(월) | 11/28(화) | 11/29(수) | 11/30(수) | 12/01(금) |
 |:--------|:--------:|--------:|:--------|:--------:|--------:|
 | Inverse design |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
@@ -28,8 +29,8 @@
 | 예티 |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | PADON |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | HAI |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| MnMs |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| AI w.o. CS |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| MnMs |  &nbsp; | &nbsp; | &nbsp; | 오후1-8 | &nbsp; |
+| AI w.o. CS |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | 오후5 (단독) |
 
 
 --------
