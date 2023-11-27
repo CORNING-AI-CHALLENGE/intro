@@ -21,7 +21,7 @@
 
 |  &nbsp;&nbsp; | 11/27(월) | 11/28(화) | 11/29(수) | 11/30(수) | 12/01(금) |
 |:--------|:--------:|--------:|:--------|:--------:|--------:|
-| Inverse design |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Inverse design |  (12/4)오후4 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | 나혼자 LLM |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | BBD |  &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | BIG212HO |  &nbsp; | 오후2-4 (단독) | &nbsp; | &nbsp; | &nbsp; |
