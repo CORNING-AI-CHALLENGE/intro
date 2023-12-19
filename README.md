@@ -5,6 +5,14 @@
 
 --------
 
+#### (2023-12-19) !!!추가 공지사항!!! - Corning AI Challenge 시상식 안내
+
+![제목을-입력해주세요_-001](https://github.com/CORNING-AI-CHALLENGE/intro/assets/146830948/e2d19754-6de9-4b79-980e-0797d4c111f0)
+
+
+
+--------
+
 #### (2023-12-18) !!!추가 공지사항!!! - Corning AI Challenge 수상팀 안내
 
 안녕하세요~ 수상팀께는 따로 이메일로 필요서류 안내드리겠습니다.
