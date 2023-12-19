@@ -7,7 +7,8 @@
 
 #### (2023-12-19) !!!추가 공지사항!!! - Corning AI Challenge 시상식 안내
 
-![제목을-입력해주세요_-001](https://github.com/CORNING-AI-CHALLENGE/intro/assets/146830948/e2d19754-6de9-4b79-980e-0797d4c111f0)
+![제목을-입력해주세요_-001 (1)](https://github.com/CORNING-AI-CHALLENGE/intro/assets/146830948/4a98cf82-fbfc-4617-8924-928d0c47b0e9)
+
 
 
 
