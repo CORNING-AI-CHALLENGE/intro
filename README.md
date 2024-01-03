@@ -5,6 +5,15 @@
 
 --------
 
+#### 참여해주신 모든 분들께 감사드립니다
+
+![IMG_6636_1](https://github.com/CORNING-AI-CHALLENGE/intro/assets/146830948/dce55814-d46c-4587-b15e-fb78c0ca5d91)
+
+
+
+
+--------
+
 #### (2023-12-19) !!!추가 공지사항!!! - Corning AI Challenge 시상식 안내
 
 ![제목을-입력해주세요_-001 (1)](https://github.com/CORNING-AI-CHALLENGE/intro/assets/146830948/4a98cf82-fbfc-4617-8924-928d0c47b0e9)
